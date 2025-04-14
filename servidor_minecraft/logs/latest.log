@@ -200,3 +200,9 @@
 [22:27:25] [Server thread/INFO]: [GSit] New version available: 2.3.1! [GSit] Current version: 2.3.0! [GSit] Download the latest version: [GSit] https://www.spigotmc.org/resources/62325
 [22:27:39] [Server thread/INFO]: Sebas23m issued server command: /gsit:crawl
 [22:31:26] [Async Chat Thread - #25/INFO]: [Not Secure] <theeminence> bro puedes dormir mientras no estoy porfa
+[22:34:25] [Server thread/INFO]: theeminence lost connection: Disconnected
+[22:34:25] [Server thread/INFO]: theeminence left the game
+[22:38:34] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
+[22:38:34] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[22:39:04] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[22:39:04] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
