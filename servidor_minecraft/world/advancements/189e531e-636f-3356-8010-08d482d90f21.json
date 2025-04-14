@@ -20,6 +20,7 @@
       "minecraft:ocean": "2025-04-14 20:53:18 +0000",
       "minecraft:jungle": "2025-04-14 20:38:32 +0000",
       "minecraft:swamp": "2025-04-14 19:46:13 +0000",
+      "minecraft:meadow": "2025-04-14 21:50:00 +0000",
       "minecraft:birch_forest": "2025-04-14 20:17:07 +0000",
       "minecraft:windswept_hills": "2025-04-14 20:00:54 +0000",
       "minecraft:savanna": "2025-04-14 21:06:09 +0000",
@@ -1123,11 +1124,23 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-14 21:40:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-14 21:17:58 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:pale": "2025-04-14 21:40:45 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
@@ -1158,6 +1171,12 @@
       "has_string": "2025-04-14 21:15:08 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-04-14 21:43:47 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
@@ -1312,6 +1331,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-04-14 21:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-14 21:43:47 +0000"
     },
     "done": true
   },
