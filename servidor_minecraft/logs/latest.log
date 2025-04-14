@@ -206,3 +206,47 @@
 [22:38:34] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
 [22:39:04] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
 [22:39:04] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[22:56:10] [Server thread/INFO]: Sebas23m has made the advancement [The Parrots and the Bats]
+[22:58:05] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[22:58:05] [Server thread/INFO]: Sebas23m left the game
+[22:58:16] [Server thread/INFO]: Stopping the server
+[22:58:16] [Server thread/INFO]: Stopping server
+[22:58:16] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.1 b112
+[22:58:16] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[22:58:16] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[22:58:16] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 2ms)
+[22:58:16] [Craft Scheduler Thread - 6 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[22:58:16] [Craft Scheduler Thread - 4 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[22:58:16] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.3
+[22:58:16] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
+[22:58:16] [Server thread/INFO]: [Graves] Disabling Graves v4.9.7
+[22:58:16] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[22:58:16] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.158
+[22:58:16] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[22:58:16] [Server thread/INFO]: [LuckPerms] Closing storage...
+[22:58:16] [Server thread/INFO]: [LuckPerms] Goodbye!
+[22:58:16] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.4
+[22:58:16] [Server thread/INFO]: [TNTAlert] Disabling TNTAlert v1.0
+[22:58:16] [Server thread/INFO]: [GSit] Disabling GSit v2.3.0
+[22:58:16] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[22:58:16] [Server thread/INFO]: Saving players
+[22:58:16] [Server thread/INFO]: Saving worlds
+[22:58:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:58:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[22:58:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[22:58:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[22:58:16] [Server thread/INFO]: [ChunkHolderManager] Saved 15 block chunks, 48 entity chunks, 0 poi chunks in world 'world' in 0.09s
+[22:58:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:58:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[22:58:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[22:58:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[22:58:17] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[22:58:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:58:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[22:58:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[22:58:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[22:58:17] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[22:58:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:58:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:58:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:58:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
