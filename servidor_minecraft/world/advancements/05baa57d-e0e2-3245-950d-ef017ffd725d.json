@@ -653,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-14 21:01:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-14 20:31:33 +0000"
@@ -818,6 +824,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2025-04-14 20:24:35 +0000",
+      "bread": "2025-04-14 21:07:01 +0000",
       "suspicious_stew": "2025-04-14 20:21:26 +0000",
       "beef": "2025-04-14 20:49:05 +0000",
       "porkchop": "2025-04-14 20:33:18 +0000"
