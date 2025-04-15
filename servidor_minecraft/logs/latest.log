@@ -198,3 +198,21 @@
 [20:46:33] [Server thread/INFO]: Sebas23m issued server command: /home 1
 [20:47:08] [Server thread/INFO]: Sebas23m issued server command: /tp 140 33 -493
 [20:47:08] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to 140.500000, 33.000000, -492.500000]
+[20:49:27] [Async Chat Thread - #5/INFO]: [Not Secure] <jp7806073> thome H
+[20:49:34] [Async Chat Thread - #5/INFO]: [Not Secure] <jp7806073> home H
+[20:49:38] [Server thread/INFO]: Sebas23m issued server command: /sethome 2
+[20:49:42] [Server thread/INFO]: jp7806073 issued server command: /sethome H
+[20:49:54] [Server thread/INFO]: jp7806073 issued server command: /home H
+[20:50:02] [Server thread/INFO]: jp7806073 issued server command: /sethome H
+[20:50:13] [Server thread/INFO]: jp7806073 issued server command: /sethome H
+[20:50:38] [Async Chat Thread - #7/INFO]: [Not Secure] <jp7806073> Home H
+[20:50:47] [Server thread/INFO]: jp7806073 issued server command: /home
+[20:50:49] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[20:50:49] [Server thread/INFO]: jp7806073 left the game
+[20:50:51] [Server thread/INFO]: Sebas23m was slain by Lvl 50 | Piglin
+[20:50:53] [User Authenticator #3/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[20:50:58] [Server thread/INFO]: jp7806073 joined the game
+[20:50:58] [Server thread/INFO]: jp7806073[/127.144.91.175:38801] logged in with entity id 56312 at ([world]-1205.9596489847834, 59.0, 130.3396965880777)
+[20:51:00] [Server thread/INFO]: Sebas23m issued server command: /home 2
+[20:51:47] [Server thread/INFO]: jp7806073 issued server command: /home H
+[20:56:52] [Server thread/INFO]: Sebas23m issued server command: /home 1
