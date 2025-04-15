@@ -1335,5 +1335,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-15 21:08:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
