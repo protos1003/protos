@@ -271,3 +271,24 @@
 [22:40:08] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -452.500000, 63.000000, -237.500000]
 [22:40:16] [Server thread/INFO]: jp7806073 issued server command: /Home H
 [22:40:22] [Server thread/INFO]: jp7806073 issued server command: /home H
+[22:40:44] [User Authenticator #8/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[22:40:46] [Server thread/INFO]: theeminence joined the game
+[22:40:46] [Server thread/INFO]: theeminence[/127.60.13.166:44847] logged in with entity id 88407 at ([world]3664.2395863938514, 95.0, 7972.31587111839)
+[22:40:51] [Async Chat Thread - #17/INFO]: [Not Secure] <theeminence> bro
+[22:41:12] [Server thread/INFO]: Sebas23m issued server command: /sethome 3
+[22:41:15] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[22:41:24] [Server thread/INFO]: Sebas23m issued server command: /home 3
+[22:41:29] [Server thread/INFO]: Sebas23m has made the advancement [Hot Stuff]
+[22:42:15] [Server thread/INFO]: jp7806073 lost connection: Timed out
+[22:42:15] [Server thread/INFO]: jp7806073 left the game
+[22:42:54] [User Authenticator #9/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[22:42:58] [Server thread/INFO]: jp7806073 joined the game
+[22:42:58] [Server thread/INFO]: jp7806073[/127.144.91.175:41961] logged in with entity id 89602 at ([world]-4080.266649875912, 63.0, 6068.389180105214)
+[22:44:42] [Server thread/INFO]: jp7806073 issued server command: /home C3
+[22:46:47] [Server thread/INFO]: jp7806073 issued server command: /home H
+[22:47:19] [Async Chat Thread - #19/INFO]: [Not Secure] <jp7806073> home N
+[22:47:23] [Server thread/INFO]: jp7806073 issued server command: /home N
+[22:47:48] [Server thread/INFO]: jp7806073 issued server command: /home H
+[22:48:52] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[22:49:50] [Server thread/INFO]: jp7806073 issued server command: /home N
+[22:50:17] [Server thread/INFO]: jp7806073 issued server command: /home H
