@@ -25,6 +25,7 @@
       "minecraft:meadow": "2025-04-14 21:50:00 +0000",
       "minecraft:birch_forest": "2025-04-14 20:17:07 +0000",
       "minecraft:windswept_hills": "2025-04-14 20:00:54 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-15 20:20:17 +0000",
       "minecraft:savanna": "2025-04-14 21:06:09 +0000",
       "minecraft:bamboo_jungle": "2025-04-14 20:34:37 +0000",
       "minecraft:plains": "2025-04-14 20:42:14 +0000"
@@ -439,7 +440,8 @@
       "mutton": "2025-04-14 20:01:52 +0000",
       "bread": "2025-04-14 22:09:32 +0000",
       "cooked_mutton": "2025-04-14 20:23:22 +0000",
-      "beef": "2025-04-14 19:59:23 +0000"
+      "beef": "2025-04-14 19:59:23 +0000",
+      "porkchop": "2025-04-15 20:17:10 +0000"
     },
     "done": false
   },
@@ -1541,9 +1543,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-15 20:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-04-15 20:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-04-15 20:20:06 +0000"
     },
     "done": true
   },
@@ -1553,15 +1567,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-04-15 20:16:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-04-15 20:08:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-04-15 20:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-15 20:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-04-15 20:20:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-04-15 20:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-04-15 20:16:03 +0000"
     },
     "done": true
   },
