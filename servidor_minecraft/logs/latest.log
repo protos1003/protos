@@ -174,3 +174,27 @@
 [20:29:23] [Server thread/INFO]: theeminence left the game
 [20:30:25] [Server thread/INFO]: Sebas23m has made the advancement [Those Were the Days]
 [20:33:04] [Server thread/INFO]: Sebas23m has made the advancement [War Pigs]
+[20:40:49] [Server thread/INFO]: jp7806073 lost connection: Timed out
+[20:40:49] [Server thread/INFO]: jp7806073 left the game
+[20:41:14] [User Authenticator #2/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[20:41:18] [Server thread/INFO]: jp7806073 joined the game
+[20:41:18] [Server thread/INFO]: jp7806073[/127.14.18.236:41873] logged in with entity id 50443 at ([world]-4028.113599865203, 64.33197263108704, 5724.392990820375)
+[20:42:16] [Server thread/INFO]: Villager Villager['Villager'/51225, uuid='38d81b23-6fde-490a-9e11-7786ba5bd93e', l='ServerLevel[world]', x=-4039.72, y=64.56, z=6092.37, cpos=[-253, 380], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[20:42:16] [Server thread/INFO]: Villager Villager['Villager'/51232, uuid='24d3cd22-eb10-44dd-9f1a-b2f71ee214c3', l='ServerLevel[world]', x=-4088.72, y=63.56, z=6089.37, cpos=[-256, 380], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[20:42:24] [Server thread/INFO]: Villager Villager['Villager'/51290, uuid='0c35398a-0d43-4c23-b23b-a9fe032d4744', l='ServerLevel[world]', x=-4093.28, y=65.56, z=6110.63, cpos=[-256, 381], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[20:43:49] [Server thread/INFO]: Sebas23m was slain by Lvl 50 | Piglin Brute
+[20:44:06] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[20:44:36] [Server thread/INFO]: Sebas23m issued server command: /tp 145 34 -491
+[20:44:36] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to 145.500000, 34.000000, -490.500000]
+[20:44:41] [Server thread/INFO]: Sebas23m was slain by Lvl 50 | Piglin Brute
+[20:44:48] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[20:45:35] [Server thread/INFO]: Sebas23m issued server command: /tp 144 33 -490
+[20:45:35] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to 144.500000, 33.000000, -489.500000]
+[20:45:40] [Server thread/INFO]: Sebas23m was slain by Lvl 50 | Piglin Brute
+[20:45:48] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[20:46:25] [Server thread/INFO]: Sebas23m issued server command: /tp 143 32 -493
+[20:46:25] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to 143.500000, 32.000000, -492.500000]
+[20:46:27] [Server thread/INFO]: Sebas23m was slain by Lvl 50 | Piglin Brute
+[20:46:33] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[20:47:08] [Server thread/INFO]: Sebas23m issued server command: /tp 140 33 -493
+[20:47:08] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to 140.500000, 33.000000, -492.500000]
