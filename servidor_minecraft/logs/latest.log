@@ -232,3 +232,5 @@
 [21:06:55] [User Authenticator #5/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
 [21:07:00] [Server thread/INFO]: jp7806073 joined the game
 [21:07:00] [Server thread/INFO]: jp7806073[/127.144.91.175:53753] logged in with entity id 61426 at ([world]-4010.167823033051, 63.0, 6102.791561972296)
+[21:25:10] [Server thread/INFO]: jp7806073 issued server command: /home N
+[21:26:09] [Server thread/INFO]: jp7806073 issued server command: /home H
