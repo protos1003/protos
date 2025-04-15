@@ -234,3 +234,7 @@
 [21:07:00] [Server thread/INFO]: jp7806073[/127.144.91.175:53753] logged in with entity id 61426 at ([world]-4010.167823033051, 63.0, 6102.791561972296)
 [21:25:10] [Server thread/INFO]: jp7806073 issued server command: /home N
 [21:26:09] [Server thread/INFO]: jp7806073 issued server command: /home H
+[21:29:37] [Server thread/INFO]: jp7806073 issued server command: /home N
+[21:30:32] [Async Chat Thread - #9/INFO]: [Not Secure] <jp7806073> home H
+[21:30:37] [Server thread/INFO]: jp7806073 issued server command: /home H
+[21:33:12] [Server thread/INFO]: jp7806073 has made the advancement [What a Deal!]
