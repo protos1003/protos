@@ -1156,6 +1156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-04-15 22:32:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-04-15 20:34:05 +0000"
@@ -1165,6 +1171,12 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-04-15 20:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-15 22:32:35 +0000"
     },
     "done": true
   },
@@ -1180,9 +1192,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-15 22:32:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-04-15 20:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-15 22:33:40 +0000"
     },
     "done": true
   },
@@ -1266,9 +1290,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-15 22:33:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-15 20:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-15 22:32:35 +0000"
     },
     "done": true
   },
@@ -1278,9 +1314,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-15 22:33:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-04-15 20:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-15 22:33:40 +0000"
     },
     "done": true
   },
@@ -1314,6 +1362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-15 22:33:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-15 20:19:51 +0000"
@@ -1341,6 +1395,30 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-04-15 20:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-15 22:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-15 22:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-15 22:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-04-15 22:32:35 +0000"
     },
     "done": true
   },
@@ -1428,9 +1506,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-15 22:35:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-04-15 20:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-15 22:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-15 22:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-04-15 22:31:48 +0000"
     },
     "done": true
   },
@@ -1461,6 +1563,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-04-15 21:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-15 22:32:35 +0000"
     },
     "done": true
   },
@@ -1541,6 +1649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-15 22:30:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-04-15 20:05:45 +0000"
@@ -1550,6 +1664,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-15 20:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-04-15 22:32:35 +0000"
     },
     "done": true
   },
@@ -1583,15 +1703,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-04-15 22:32:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-04-15 20:14:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-04-15 22:32:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-04-15 20:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-04-15 22:32:45 +0000"
     },
     "done": true
   },
@@ -1631,6 +1769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-04-15 22:32:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-04-15 20:51:39 +0000"
@@ -1664,6 +1808,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-15 21:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-15 22:30:15 +0000"
     },
     "done": true
   },
@@ -1706,6 +1856,12 @@
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_planks": "2025-04-15 20:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-15 22:33:40 +0000"
     },
     "done": true
   },
@@ -1775,9 +1931,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-15 22:32:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-04-15 20:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-04-15 22:32:35 +0000"
     },
     "done": true
   },

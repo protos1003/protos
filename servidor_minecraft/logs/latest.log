@@ -254,3 +254,20 @@
 [22:27:38] [Server thread/INFO]: theeminence issued server command: /home granjaa
 [22:29:35] [Server thread/INFO]: theeminence lost connection: Disconnected
 [22:29:35] [Server thread/INFO]: theeminence left the game
+[22:31:31] [User Authenticator #7/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[22:31:34] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[22:31:35] [Server thread/INFO]: jp7806073 joined the game
+[22:31:35] [Server thread/INFO]: jp7806073[/127.14.18.236:60825] logged in with entity id 83741 at ([world]-4060.7604281075305, 64.5625, 6106.139095035225)
+[22:36:24] [Async Chat Thread - #13/INFO]: [Not Secure] <jp7806073> Home N
+[22:36:29] [Server thread/INFO]: jp7806073 issued server command: /Home N
+[22:36:34] [Server thread/INFO]: Sebas23m fell from a high place
+[22:36:38] [Server thread/INFO]: jp7806073 issued server command: /home N
+[22:37:21] [Server thread/INFO]: jp7806073 issued server command: /home H
+[22:37:48] [Async Chat Thread - #15/INFO]: [Not Secure] <jp7806073> Home N
+[22:37:55] [Server thread/INFO]: jp7806073 issued server command: /home N
+[22:38:09] [Server thread/INFO]: Sebas23m was slain by Lvl 49 | Piglin
+[22:39:29] [Server thread/INFO]: Sebas23m was slain by Lvl 47 | Piglin
+[22:40:08] [Server thread/INFO]: Sebas23m issued server command: /tp -453 63 -238
+[22:40:08] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -452.500000, 63.000000, -237.500000]
+[22:40:16] [Server thread/INFO]: jp7806073 issued server command: /Home H
+[22:40:22] [Server thread/INFO]: jp7806073 issued server command: /home H
