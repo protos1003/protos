@@ -216,3 +216,19 @@
 [20:51:00] [Server thread/INFO]: Sebas23m issued server command: /home 2
 [20:51:47] [Server thread/INFO]: jp7806073 issued server command: /home H
 [20:56:52] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[21:00:32] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[21:00:32] [Server thread/INFO]: jp7806073 left the game
+[21:00:36] [User Authenticator #4/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[21:00:41] [Server thread/INFO]: jp7806073 joined the game
+[21:00:41] [Server thread/INFO]: jp7806073[/127.144.91.175:36925] logged in with entity id 59826 at ([world]-4040.249362083953, 64.0, 6093.379308995725)
+[21:01:14] [Server thread/INFO]: Villager Villager['Villager'/59866, uuid='127172c4-0fd9-47d3-81b4-2ddb180ee78a', l='ServerLevel[world]', x=-4092.52, y=65.56, z=6109.75, cpos=[-256, 381], tl=21575, v=true] died, message: 'Villager suffocated in a wall'
+[21:01:19] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[21:01:19] [Server thread/INFO]: jp7806073 left the game
+[21:01:22] [User Authenticator #4/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[21:01:26] [Server thread/INFO]: jp7806073 joined the game
+[21:01:26] [Server thread/INFO]: jp7806073[/127.144.91.175:49109] logged in with entity id 60159 at ([world]-4040.249362083953, 64.0, 6093.379308995725)
+[21:03:59] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[21:03:59] [Server thread/INFO]: jp7806073 left the game
+[21:06:55] [User Authenticator #5/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[21:07:00] [Server thread/INFO]: jp7806073 joined the game
+[21:07:00] [Server thread/INFO]: jp7806073[/127.144.91.175:53753] logged in with entity id 61426 at ([world]-4010.167823033051, 63.0, 6102.791561972296)
