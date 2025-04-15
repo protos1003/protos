@@ -153,3 +153,60 @@
 [19:40:15] [Server thread/INFO]: theeminence issued server command: /sethome
 [19:40:24] [Server thread/INFO]: theeminence lost connection: Disconnected
 [19:40:24] [Server thread/INFO]: theeminence left the game
+[19:42:42] [User Authenticator #4/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[19:42:44] [Server thread/INFO]: theeminence joined the game
+[19:42:44] [Server thread/INFO]: theeminence[/127.60.13.166:44097] logged in with entity id 21857 at ([world]327.86004619281374, 66.0, 1129.0112787324572)
+[19:43:05] [Server thread/INFO]: jp7806073 lost connection: Timed out
+[19:43:05] [Server thread/INFO]: jp7806073 left the game
+[19:43:17] [Server thread/INFO]: theeminence issued server command: /home
+[19:43:27] [Server thread/INFO]: theeminence issued server command: /Home base1
+[19:43:31] [User Authenticator #4/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[19:43:32] [Async Chat Thread - #6/INFO]: [Not Secure] <theeminence> holaaa
+[19:43:37] [Server thread/INFO]: jp7806073 joined the game
+[19:43:37] [Server thread/INFO]: jp7806073[/127.144.91.175:55425] logged in with entity id 22283 at ([world]-3072.104968256367, 63.0, 1301.3161120459074)
+[19:43:55] [Async Chat Thread - #6/INFO]: [Not Secure] <theeminence> se me bugeo el Minecraft
+[19:44:16] [Server thread/INFO]: jp7806073 lost connection: Timed out
+[19:44:16] [Server thread/INFO]: jp7806073 left the game
+[19:44:17] [Server thread/INFO]: Stopping the server
+[19:44:17] [Server thread/INFO]: Stopping server
+[19:44:17] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.1 b112
+[19:44:17] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[19:44:17] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[19:44:17] [Craft Scheduler Thread - 4 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[19:44:17] [Craft Scheduler Thread - 6 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[19:44:17] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 12ms)
+[19:44:17] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.3
+[19:44:17] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
+[19:44:17] [Server thread/INFO]: [Graves] Disabling Graves v4.9.7
+[19:44:17] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[19:44:17] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.158
+[19:44:17] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[19:44:17] [Server thread/INFO]: [LuckPerms] Closing storage...
+[19:44:17] [Server thread/INFO]: [LuckPerms] Goodbye!
+[19:44:17] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.4
+[19:44:17] [Server thread/INFO]: [TNTAlert] Disabling TNTAlert v1.0
+[19:44:17] [Server thread/INFO]: [GSit] Disabling GSit v2.3.0
+[19:44:17] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[19:44:17] [Server thread/INFO]: Saving players
+[19:44:17] [Server thread/INFO]: theeminence lost connection: Server closed
+[19:44:17] [Server thread/INFO]: theeminence left the game
+[19:44:17] [Server thread/INFO]: Saving worlds
+[19:44:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:44:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[19:44:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[19:44:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[19:44:20] [Server thread/INFO]: [ChunkHolderManager] Saved 2395 block chunks, 1362 entity chunks, 1 poi chunks in world 'world' in 2.81s
+[19:44:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:44:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[19:44:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[19:44:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[19:44:20] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[19:44:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:44:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[19:44:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[19:44:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[19:44:20] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[19:44:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:44:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:44:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:44:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
