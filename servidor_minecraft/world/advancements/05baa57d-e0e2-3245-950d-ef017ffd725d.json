@@ -1156,6 +1156,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-15 20:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-15 20:33:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-04-15 20:07:15 +0000"
@@ -1253,6 +1265,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-04-15 20:33:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-04-15 20:07:15 +0000"
@@ -1283,6 +1301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-04-15 20:31:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-04-15 20:05:45 +0000"
@@ -1294,6 +1318,7 @@
       "minecraft:skeleton": "2025-04-15 20:01:13 +0000",
       "minecraft:piglin": "2025-04-15 20:18:54 +0000",
       "minecraft:enderman": "2025-04-15 20:20:59 +0000",
+      "minecraft:piglin_brute": "2025-04-15 20:32:18 +0000",
       "minecraft:spider": "2025-04-15 20:05:45 +0000",
       "minecraft:zombie": "2025-04-15 20:05:29 +0000"
     },
@@ -1350,6 +1375,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-04-15 20:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-15 20:30:25 +0000"
     },
     "done": true
   },
@@ -1440,6 +1471,12 @@
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_planks": "2025-04-15 20:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-15 20:31:15 +0000"
     },
     "done": true
   },
