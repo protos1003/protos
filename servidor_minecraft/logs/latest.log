@@ -311,3 +311,14 @@
 [23:30:24] [Server thread/INFO]: jp7806073 issued server command: /home C1
 [23:30:35] [Server thread/INFO]: jp7806073 issued server command: /home c2
 [23:30:41] [Server thread/INFO]: jp7806073 issued server command: /home C2
+[23:36:16] [Server thread/INFO]: jp7806073 issued server command: /home c3
+[23:36:22] [Server thread/INFO]: jp7806073 issued server command: /home C3
+[23:37:30] [Server thread/INFO]: jp7806073 issued server command: /home C4
+[23:38:55] [Server thread/INFO]: jp7806073 issued server command: /home C1
+[23:39:04] [Server thread/INFO]: jp7806073 issued server command: /home H
+[23:41:35] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
+[23:41:35] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[23:42:21] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[23:42:21] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[23:44:45] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[23:50:23] [Server thread/INFO]: jp7806073 issued server command: /
