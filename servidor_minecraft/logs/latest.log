@@ -245,3 +245,12 @@
 [22:13:52] [Server thread/INFO]: theeminence joined the game
 [22:13:52] [Server thread/INFO]: theeminence[/127.60.13.166:46237] logged in with entity id 77587 at ([world]3571.6725885668334, 92.0, 7940.555225669966)
 [22:14:03] [Async Chat Thread - #11/INFO]: [Not Secure] <theeminence> hola bro
+[22:25:38] [Server thread/INFO]: theeminence issued server command: /sethome granja-a
+[22:25:53] [Server thread/INFO]: theeminence issued server command: /sethome granjaa
+[22:26:06] [Server thread/INFO]: theeminence issued server command: /home templo
+[22:26:46] [Server thread/INFO]: theeminence issued server command: /home granjaa
+[22:27:06] [Server thread/INFO]: theeminence issued server command: /home templo
+[22:27:21] [Server thread/INFO]: theeminence issued server command: /Home granjaa
+[22:27:38] [Server thread/INFO]: theeminence issued server command: /home granjaa
+[22:29:35] [Server thread/INFO]: theeminence lost connection: Disconnected
+[22:29:35] [Server thread/INFO]: theeminence left the game
