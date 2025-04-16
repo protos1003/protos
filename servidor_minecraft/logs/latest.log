@@ -198,3 +198,15 @@
 [20:13:17] [Async Chat Thread - #2/INFO]: [Not Secure] <theeminence> esos aldeanos no me dan cosas buenas
 [20:13:27] [Async Chat Thread - #2/INFO]: [Not Secure] <Sebas23m> ten pacienci
 [20:14:18] [Async Chat Thread - #2/INFO]: [Not Secure] <theeminence> ya voy a hacer la granja de hierro
+[20:19:35] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[20:19:37] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[20:19:37] [Server thread/INFO]: [voicechat] Disconnecting client Sebas23m
+[20:19:37] [Server thread/INFO]: Sebas23m left the game
+[20:20:40] [Server thread/INFO]: theeminence lost connection: Disconnected
+[20:20:40] [Server thread/INFO]: [voicechat] Disconnecting client theeminence
+[20:20:40] [Server thread/INFO]: theeminence left the game
+[20:22:48] [User Authenticator #7/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[20:22:52] [Server thread/INFO]: Sebas23m joined the game
+[20:22:52] [Server thread/INFO]: Sebas23m[/127.161.253.33:58539] logged in with entity id 27958 at ([world]-3636.4497370616477, 87.0, -1770.6601018411295)
+[20:22:56] [Server thread/INFO]: [voicechat] Received secret request of Sebas23m (18)
+[20:22:56] [Server thread/INFO]: [voicechat] Sent secret to Sebas23m
