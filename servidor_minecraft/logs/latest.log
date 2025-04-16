@@ -149,3 +149,18 @@
 [19:14:27] [User Authenticator #5/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
 [19:14:31] [Server thread/INFO]: jp7806073 joined the game
 [19:14:31] [Server thread/INFO]: jp7806073[/127.135.16.216:34575] logged in with entity id 4365 at ([world]-4059.505883473383, 64.0, 6106.6704571474675)
+[19:16:32] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[19:16:32] [Server thread/INFO]: [voicechat] Disconnecting client jp7806073
+[19:16:32] [Server thread/INFO]: jp7806073 left the game
+[19:23:34] [Server thread/INFO]: Sebas23m issued server command: /tp 2280 50 120
+[19:23:34] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to 2280.500000, 50.000000, 120.500000]
+[19:23:49] [Server thread/INFO]: theeminence has made the advancement [Monster Hunter]
+[19:24:07] [Server thread/INFO]: Sebas23m has made the advancement [The City at the End of the Game]
+[19:24:12] [Async Chat Thread - #0/INFO]: [Not Secure] <theeminence> ala
+[19:24:24] [Async Chat Thread - #0/INFO]: [Not Secure] <theeminence> bro me puedes hacer ese fa porfas
+[19:24:40] [Server thread/INFO]: theeminence has made the advancement [Suit Up]
+[19:24:46] [Server thread/INFO]: Sebas23m was slain by Lvl 50 | Enderman
+[19:24:54] [Server thread/INFO]: Sebas23m issued server command: /back
+[19:25:04] [Server thread/INFO]: Sebas23m issued server command: /home 6
+[19:25:23] [Server thread/INFO]: Sebas23m issued server command: /tp 2280 67 125
+[19:25:23] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to 2280.500000, 67.000000, 125.500000]
