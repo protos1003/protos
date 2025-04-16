@@ -180,3 +180,8 @@
 [19:33:22] [Server thread/INFO]: Sebas23m issued server command: /tp 2252 111 117
 [19:33:22] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to 2252.500000, 111.000000, 117.500000]
 [19:33:51] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[19:40:31] [Server thread/INFO]: theeminence lost connection: Disconnected
+[19:40:31] [Server thread/INFO]: [voicechat] Disconnecting client theeminence
+[19:40:31] [Server thread/INFO]: theeminence left the game
+[19:41:15] [Server thread/INFO]: Sebas23m issued server command: /home 3
+[19:42:45] [Server thread/INFO]: Sebas23m issued server command: /home 1
