@@ -192,3 +192,6 @@
 [19:51:01] [Server thread/INFO]: theeminence joined the game
 [19:51:01] [Server thread/INFO]: theeminence[/127.47.205.81:45337] logged in with entity id 17019 at ([world]3579.4895224165666, 94.0, 7937.4009174331295)
 [19:56:11] [Server thread/INFO]: Sebas23m hit the ground too hard
+[19:56:39] [Server thread/INFO]: Sebas23m issued server command: /tp -3443 -0 -1684
+[19:56:39] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -3442.500000, -0.000000, -1683.500000]
+[20:05:57] [Server thread/INFO]: Sebas23m issued server command: /home 1
