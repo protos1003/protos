@@ -592,7 +592,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-04-16 01:43:18 +0000",
       "minecraft:skeleton": "2025-04-15 23:13:46 +0000",
+      "minecraft:enderman": "2025-04-16 01:48:54 +0000",
       "minecraft:magma_cube": "2025-04-16 01:19:10 +0000",
       "minecraft:zombie": "2025-04-15 19:17:44 +0000"
     },
@@ -1255,7 +1257,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-04-15 20:09:10 +0000",
-      "minecraft:basalt_deltas": "2025-04-16 01:42:39 +0000"
+      "minecraft:basalt_deltas": "2025-04-16 01:42:39 +0000",
+      "minecraft:warped_forest": "2025-04-16 01:47:56 +0000"
     },
     "done": false
   },
@@ -1937,6 +1940,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-16 01:43:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-04-16 00:14:05 +0000"
@@ -2000,6 +2009,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-15 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-04-16 01:50:46 +0000"
     },
     "done": true
   },
@@ -2090,6 +2105,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-04-15 23:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-16 01:43:19 +0000"
     },
     "done": true
   },
@@ -2354,6 +2375,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-15 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-16 01:43:19 +0000"
     },
     "done": true
   },

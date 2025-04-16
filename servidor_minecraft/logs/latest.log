@@ -136,3 +136,20 @@
 [01:43:19] [Server thread/INFO]: jp7806073 has made the advancement [Into Fire]
 [01:43:26] [Server thread/INFO]: Sebas23m issued server command: /home 2
 [01:43:48] [Server thread/INFO]: jp7806073 was slain by Lvl 50 | Wither Skeleton
+[01:46:07] [Server thread/INFO]: Sebas23m issued server command: /sethome enderman
+[01:46:12] [Server thread/INFO]: Sebas23m issued server command: /home 5
+[01:46:17] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[01:46:17] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[01:46:24] [Server thread/INFO]: Sebas23m issued server command: /home enderman
+[01:46:33] [Server thread/INFO]: jp7806073 issued server command: /home H
+[01:47:55] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[01:47:55] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[01:49:31] [Async Chat Thread - #47/INFO]: [Not Secure] <jp7806073> home H
+[01:49:35] [Server thread/INFO]: jp7806073 issued server command: /home H
+[01:51:07] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[01:51:07] [Server thread/INFO]: jp7806073 left the game
+[01:51:17] [Async Chat Thread - #49/INFO]: [Not Secure] <Sebas23m> como vas maicol
+[01:51:28] [Async Chat Thread - #49/INFO]: [Not Secure] <theeminence> maso ya pude hacer mi granja
+[01:53:39] [Server thread/INFO]: Sebas23m issued server command: /home enderman
+[01:54:44] [Server thread/INFO]: Sebas23m issued server command: /home 3
+[01:54:49] [Server thread/INFO]: Sebas23m issued server command: /home 1
