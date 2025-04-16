@@ -9,3 +9,6 @@
 [00:16:56] [Server thread/INFO]: theeminence[/127.60.13.166:36049] logged in with entity id 125026 at ([world]3733.0675598539005, 93.0, 7957.978373631728)
 [00:19:43] [Server thread/INFO]: Sebas23m issued server command: /home 1
 [00:22:18] [Server thread/INFO]: Villager Villager['Villager'/93179, uuid='621d10df-a9a3-4d61-a392-163ba1aad416', l='ServerLevel[world]', x=-3627.65, y=83.80, z=-1771.70, cpos=[-227, -111], tl=408716, v=true] died, message: 'Villager was slain by Sebas23m'
+[00:27:10] [Server thread/INFO]: jp7806073 issued server command: /home N
+[00:27:28] [Server thread/INFO]: jp7806073 issued server command: /home H
+[00:31:14] [Server thread/INFO]: Sebas23m issued server command: /home 3
