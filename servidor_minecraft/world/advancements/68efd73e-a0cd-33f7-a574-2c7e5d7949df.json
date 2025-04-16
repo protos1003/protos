@@ -525,7 +525,8 @@
       "cooked_beef": "2025-04-15 19:48:12 +0000",
       "cod": "2025-04-15 19:03:06 +0000",
       "porkchop": "2025-04-15 19:12:18 +0000",
-      "pumpkin_pie": "2025-04-15 21:39:01 +0000"
+      "pumpkin_pie": "2025-04-15 21:39:01 +0000",
+      "golden_carrot": "2025-04-16 01:19:15 +0000"
     },
     "done": false
   },
@@ -592,6 +593,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-15 23:13:46 +0000",
+      "minecraft:magma_cube": "2025-04-16 01:19:10 +0000",
       "minecraft:zombie": "2025-04-15 19:17:44 +0000"
     },
     "done": false

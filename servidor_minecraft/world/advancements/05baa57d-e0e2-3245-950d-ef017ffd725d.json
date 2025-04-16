@@ -1568,6 +1568,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-16 01:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-04-15 21:56:45 +0000"
@@ -1768,11 +1774,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-04-16 01:23:23 +0000",
       "minecraft:skeleton": "2025-04-15 20:01:13 +0000",
       "minecraft:piglin": "2025-04-15 20:18:54 +0000",
       "minecraft:enderman": "2025-04-15 20:20:59 +0000",
       "minecraft:piglin_brute": "2025-04-15 20:32:18 +0000",
       "minecraft:spider": "2025-04-15 20:05:45 +0000",
+      "minecraft:wither_skeleton": "2025-04-16 01:16:50 +0000",
       "minecraft:zombie": "2025-04-15 20:05:29 +0000",
       "minecraft:ghast": "2025-04-16 00:45:02 +0000"
     },
@@ -1805,6 +1813,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-15 20:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-16 01:23:24 +0000"
     },
     "done": true
   },
@@ -2078,6 +2092,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-16 01:16:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
       "has_planks": "2025-04-15 20:19:51 +0000"
@@ -2135,6 +2155,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-04-15 20:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-16 01:23:24 +0000"
     },
     "done": true
   },
