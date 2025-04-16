@@ -228,3 +228,38 @@
 [02:22:31] [Server thread/INFO]: theeminence fell out of the world
 [02:23:53] [Server thread/INFO]: Sebas23m issued server command: /tp theeminence Sebas23m
 [02:23:53] [Server thread/INFO]: [Sebas23m: Teleported theeminence to Sebas23m]
+[02:26:52] [Server thread/INFO]: Sebas23m fell from a high place
+[02:26:58] [Server thread/INFO]: theeminence was doomed to fall by Ender Dragon
+[02:27:01] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[02:27:01] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[02:28:01] [Server thread/INFO]: Sebas23m issued server command: /tp theeminence Sebas23m
+[02:28:01] [Server thread/INFO]: [Sebas23m: Teleported theeminence to Sebas23m]
+[02:28:31] [Server thread/INFO]: Sebas23m was slain by Lvl 38 | Enderman
+[02:28:40] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[02:28:40] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[02:28:58] [Server thread/INFO]: Sebas23m has made the advancement [Take Aim]
+[02:29:47] [Server thread/INFO]: theeminence has made the advancement [Take Aim]
+[02:30:24] [Server thread/INFO]: Sebas23m was slain by Lvl 46 | Enderman
+[02:30:35] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[02:30:35] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[02:31:20] [Server thread/INFO]: theeminence was slain by Lvl 50 | Enderman
+[02:31:22] [Server thread/INFO]: jp7806073 was doomed to fall by Ender Dragon
+[02:31:50] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[02:31:50] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[02:31:55] [Server thread/INFO]: Sebas23m issued server command: /tp theeminence Sebas23m
+[02:31:55] [Server thread/INFO]: [Sebas23m: Teleported theeminence to Sebas23m]
+[02:32:21] [Server thread/INFO]: Sebas23m issued server command: /tp theeminence Sebas23m
+[02:32:21] [Server thread/INFO]: [Sebas23m: Teleported theeminence to Sebas23m]
+[02:32:41] [Server thread/INFO]: Sebas23m was slain by Lvl 22 | Enderman
+[02:32:49] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[02:32:49] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[02:33:41] [Server thread/INFO]: jp7806073 was doomed to fall by Ender Dragon
+[02:34:10] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[02:34:10] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[02:34:11] [Server thread/WARN]: jp7806073 moved too quickly! 4010.800000011921,-9.125,-6121.800000011921
+[02:35:06] [Server thread/INFO]: jp7806073 was slain by Lvl 50 | Enderman
+[02:35:10] [Server thread/INFO]: theeminence was doomed to fall by Enderman
+[02:35:15] [Server thread/INFO]: Sebas23m was doomed to fall by Ender Dragon
+[02:35:22] [Server thread/INFO]: Sebas23m issued server command: /home 6
+[02:35:29] [Server thread/INFO]: Sebas23m issued server command: /tp @a Sebas23m
+[02:35:29] [Server thread/INFO]: [Sebas23m: Teleported 3 entities to Sebas23m]
