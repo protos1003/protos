@@ -215,3 +215,10 @@
 [20:41:31] [Server thread/INFO]: theeminence joined the game
 [20:41:31] [Server thread/INFO]: theeminence[/127.47.205.81:58845] logged in with entity id 31072 at ([world]3566.1427990272086, 90.5625, 7940.115282466938)
 [20:45:19] [Server thread/INFO]: theeminence fell from a high place
+[20:49:07] [Server thread/INFO]: theeminence has made the advancement [Not Today, Thank You]
+[20:55:36] [Server thread/INFO]: Sebas23m issued server command: /gsit toggle
+[20:55:52] [Server thread/INFO]: Sebas23m issued server command: /gsit playertoggle
+[20:56:05] [Server thread/INFO]: Sebas23m issued server command: /gsit:gsit
+[20:56:15] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[20:56:15] [Server thread/INFO]: [voicechat] Disconnecting client Sebas23m
+[20:56:15] [Server thread/INFO]: Sebas23m left the game

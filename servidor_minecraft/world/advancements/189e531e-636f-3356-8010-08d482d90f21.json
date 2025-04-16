@@ -1885,6 +1885,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-16 20:49:26 +0000",
       "minecraft:endermite": "2025-04-16 19:23:49 +0000"
     },
     "done": false
@@ -1898,6 +1899,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-04-16 19:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-16 20:49:07 +0000"
     },
     "done": true
   },
