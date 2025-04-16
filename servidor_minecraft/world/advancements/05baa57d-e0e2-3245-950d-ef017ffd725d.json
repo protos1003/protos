@@ -15,6 +15,7 @@
       "minecraft:deep_ocean": "2025-04-14 20:15:10 +0000",
       "minecraft:river": "2025-04-14 20:04:51 +0000",
       "minecraft:lukewarm_ocean": "2025-04-14 20:15:42 +0000",
+      "minecraft:dripstone_caves": "2025-04-16 01:38:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-14 19:50:36 +0000",
       "minecraft:windswept_forest": "2025-04-14 20:13:39 +0000",
       "minecraft:ocean": "2025-04-14 20:14:26 +0000",
@@ -1205,6 +1206,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-16 01:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-16 01:38:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-16 00:43:51 +0000"
@@ -1214,6 +1227,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-04-15 22:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-16 01:38:23 +0000"
     },
     "done": true
   },
@@ -1244,6 +1263,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-16 00:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-16 01:38:23 +0000"
     },
     "done": true
   },
@@ -1394,6 +1419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-16 01:41:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-16 00:43:51 +0000"
@@ -1403,6 +1434,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-04-15 22:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-16 01:41:36 +0000"
     },
     "done": true
   },
@@ -1451,6 +1488,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-15 20:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-16 01:41:36 +0000"
     },
     "done": true
   },
@@ -1517,6 +1560,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-04-15 20:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-16 01:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-04-16 01:38:49 +0000"
     },
     "done": true
   },
@@ -1790,12 +1845,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-16 01:41:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-04-16 01:23:23 +0000",
       "minecraft:skeleton": "2025-04-15 20:01:13 +0000",
       "minecraft:piglin": "2025-04-15 20:18:54 +0000",
       "minecraft:enderman": "2025-04-15 20:20:59 +0000",
+      "minecraft:silverfish": "2025-04-16 01:42:01 +0000",
       "minecraft:piglin_brute": "2025-04-15 20:32:18 +0000",
       "minecraft:spider": "2025-04-15 20:05:45 +0000",
       "minecraft:wither_skeleton": "2025-04-16 01:16:50 +0000",
@@ -1837,6 +1899,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-15 20:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-04-16 01:38:36 +0000"
     },
     "done": true
   },
@@ -1954,6 +2022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-16 01:41:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-04-15 23:46:43 +0000"
@@ -2050,6 +2124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-16 01:41:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-04-15 22:30:15 +0000"
@@ -2059,6 +2139,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-04-15 23:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-16 01:41:36 +0000"
     },
     "done": true
   },
@@ -2083,6 +2169,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-16 00:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-16 01:41:36 +0000"
     },
     "done": true
   },
@@ -2119,6 +2211,12 @@
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_planks": "2025-04-15 20:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-16 01:41:36 +0000"
     },
     "done": true
   },
@@ -2212,6 +2310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-16 01:38:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-15 20:56:32 +0000"
@@ -2263,6 +2367,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-04-15 23:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-16 01:41:36 +0000"
     },
     "done": true
   },

@@ -1254,7 +1254,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-04-15 20:09:10 +0000"
+      "minecraft:nether_wastes": "2025-04-15 20:09:10 +0000",
+      "minecraft:basalt_deltas": "2025-04-16 01:42:39 +0000"
     },
     "done": false
   },
@@ -1636,6 +1637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-16 01:41:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-04-15 23:01:20 +0000"
@@ -1711,6 +1718,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-15 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-16 01:41:17 +0000"
     },
     "done": true
   },
@@ -2299,6 +2312,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-15 23:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-16 01:42:39 +0000"
     },
     "done": true
   },
