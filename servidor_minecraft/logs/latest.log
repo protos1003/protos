@@ -136,3 +136,16 @@
 [19:02:12] [Server thread/INFO]: Sebas23m lost connection: Disconnected
 [19:02:12] [Server thread/INFO]: [voicechat] Disconnecting client Sebas23m
 [19:02:12] [Server thread/INFO]: Sebas23m left the game
+[19:05:32] [User Authenticator #3/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[19:05:36] [Server thread/INFO]: Sebas23m joined the game
+[19:05:36] [Server thread/INFO]: Sebas23m[/127.161.253.33:41787] logged in with entity id 2411 at ([world_the_end]51.53812713563483, 37.0, 75.65274943280454)
+[19:05:39] [Server thread/INFO]: [voicechat] Received secret request of Sebas23m (18)
+[19:05:39] [Server thread/INFO]: [voicechat] Sent secret to Sebas23m
+[19:07:23] [User Authenticator #4/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[19:07:25] [Server thread/INFO]: theeminence joined the game
+[19:07:25] [Server thread/INFO]: theeminence[/127.47.205.81:35739] logged in with entity id 2512 at ([world]1955.699999988079, 63.0, 3198.058190159702)
+[19:12:05] [Server thread/INFO]: Sebas23m has made the advancement [Remote Getaway]
+[19:12:38] [Server thread/INFO]: theeminence issued server command: /home base1
+[19:14:27] [User Authenticator #5/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[19:14:31] [Server thread/INFO]: jp7806073 joined the game
+[19:14:31] [Server thread/INFO]: jp7806073[/127.135.16.216:34575] logged in with entity id 4365 at ([world]-4059.505883473383, 64.0, 6106.6704571474675)
