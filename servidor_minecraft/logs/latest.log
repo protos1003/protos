@@ -126,3 +126,13 @@
 [18:50:50] [Server thread/INFO]: theeminence joined the game
 [18:50:50] [Server thread/INFO]: theeminence[/127.47.205.81:48135] logged in with entity id 520 at ([world]3656.921917067984, 95.0, 7950.288087013876)
 [18:53:26] [Server thread/INFO]: theeminence issued server command: /home templo
+[18:55:49] [Server thread/INFO]: theeminence lost connection: Disconnected
+[18:55:49] [Server thread/INFO]: [voicechat] Disconnecting client theeminence
+[18:55:49] [Server thread/INFO]: theeminence left the game
+[19:01:19] [User Authenticator #2/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[19:01:23] [Server thread/INFO]: Sebas23m joined the game
+[19:01:23] [Server thread/INFO]: Sebas23m[/127.161.253.33:33445] logged in with entity id 2345 at ([world_the_end]51.30000001192093, 37.0, 75.30000001192093)
+[19:01:52] [Server thread/INFO]: Sebas23m issued server command: /voicechat help
+[19:02:12] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[19:02:12] [Server thread/INFO]: [voicechat] Disconnecting client Sebas23m
+[19:02:12] [Server thread/INFO]: Sebas23m left the game

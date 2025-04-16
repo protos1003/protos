@@ -1755,7 +1755,37 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-16 01:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-16 01:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-16 01:24:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-04-16 02:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-04-16 02:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-04-16 02:12:38 +0000"
     },
@@ -1767,63 +1797,9 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-04-16 02:14:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-04-16 02:18:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-04-16 02:13:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-04-16 02:29:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-04-16 02:14:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-04-16 01:24:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-04-16 01:23:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2025-04-16 02:14:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-04-16 02:22:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-04-16 02:12:38 +0000"
     },
     "done": true
   },
@@ -1833,15 +1809,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_carpet": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "has_gray_wool": "2025-04-16 02:12:38 +0000"
+      "iron_pickaxe": "2025-04-16 02:14:06 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "minecraft:story/follow_ender_eye": {
     "criteria": {
-      "traded": "2025-04-16 01:23:01 +0000"
+      "in_stronghold": "2025-04-16 02:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-16 02:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-16 02:18:46 +0000"
     },
     "done": true
   },
@@ -1851,9 +1839,21 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-04-16 02:22:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-04-16 02:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-16 02:29:47 +0000"
     },
     "done": true
   },
