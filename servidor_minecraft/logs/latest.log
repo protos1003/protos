@@ -195,3 +195,36 @@
 [02:15:10] [Server thread/INFO]: jp7806073 joined the game
 [02:15:10] [Server thread/INFO]: jp7806073[/127.144.91.175:42157] logged in with entity id 181748 at ([world]-4064.00498985556, 68.0, 6101.989166476713)
 [02:15:16] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[02:15:45] [Server thread/INFO]: Sebas23m issued server command: /home 6
+[02:15:49] [Async Chat Thread - #58/INFO]: [Not Secure] <theeminence> espera que tengo que guardar cosas
+[02:16:32] [Server thread/INFO]: theeminence issued server command: /home base1
+[02:16:58] [Server thread/WARN]: jp7806073 moved too quickly! 2.3297215210232025,3.6731593011473223,12.64710990032654
+[02:17:59] [Server thread/INFO]: Sebas23m issued server command: /home 6
+[02:18:41] [Server thread/INFO]: Sebas23m issued server command: /tp theeminence Sebas23m
+[02:18:41] [Server thread/INFO]: [Sebas23m: Teleported theeminence to Sebas23m]
+[02:18:59] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[02:18:59] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[02:19:06] [Server thread/INFO]: jp7806073 issued server command: /Home h
+[02:19:14] [Server thread/INFO]: jp7806073 issued server command: /Home H
+[02:19:20] [Server thread/INFO]: jp7806073 issued server command: /home H
+[02:19:57] [Server thread/INFO]: Sebas23m issued server command: /gsit:bellyflop
+[02:20:11] [Server thread/INFO]: Sebas23m issued server command: /gsit:crawl
+[02:20:30] [Server thread/INFO]: Sebas23m issued server command: /gsit:glay
+[02:20:43] [Server thread/INFO]: Sebas23m issued server command: /gsit:gbellyflop
+[02:20:54] [Server thread/INFO]: Sebas23m issued server command: /gsit playertoggle
+[02:21:01] [Server thread/INFO]: Sebas23m issued server command: /gsit:gspin
+[02:21:13] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[02:21:13] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[02:21:28] [Server thread/INFO]: jp7806073 issued server command: /skin menu
+[02:21:33] [Folia Async Scheduler Thread #3/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:21:37] [Server thread/INFO]: Sebas23m issued server command: /gsit:gsitrl
+[02:21:37] [Server thread/INFO]: [GSit] New version available: 2.3.1! [GSit] Current version: 2.3.0! [GSit] Download the latest version: [GSit] https://www.spigotmc.org/resources/62325
+[02:21:46] [Server thread/INFO]: Sebas23m issued server command: /gsit:gspin
+[02:22:22] [Server thread/INFO]: Sebas23m has made the advancement [The End?]
+[02:22:24] [Server thread/INFO]: theeminence has made the advancement [The End?]
+[02:22:24] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[02:22:24] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[02:22:27] [Server thread/INFO]: jp7806073 has made the advancement [The End?]
+[02:22:31] [Server thread/INFO]: theeminence fell out of the world
+[02:23:53] [Server thread/INFO]: Sebas23m issued server command: /tp theeminence Sebas23m
+[02:23:53] [Server thread/INFO]: [Sebas23m: Teleported theeminence to Sebas23m]
