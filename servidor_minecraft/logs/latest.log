@@ -249,3 +249,22 @@
 [21:31:45] [Async Chat Thread - #8/INFO]: [Not Secure] <theeminence> uuuus
 [21:31:50] [Async Chat Thread - #8/INFO]: [Not Secure] <theeminence> jesuus
 [21:33:30] [Server thread/INFO]: theeminence was slain by Lvl 9 | Zombie
+[21:38:32] [Server thread/INFO]: theeminence issued server command: /sethome gh
+[21:38:41] [Server thread/INFO]: theeminence issued server command: /home base1
+[21:41:06] [Server thread/INFO]: theeminence lost connection: Disconnected
+[21:41:06] [Server thread/INFO]: [voicechat] Disconnecting client theeminence
+[21:41:06] [Server thread/INFO]: theeminence left the game
+[21:42:15] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[21:42:15] [Server thread/INFO]: [voicechat] Disconnecting client Sebas23m
+[21:42:15] [Server thread/INFO]: Sebas23m left the game
+[21:42:41] [User Authenticator #12/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[21:42:43] [Server thread/INFO]: Sebas23m joined the game
+[21:42:43] [Server thread/INFO]: Sebas23m[/127.161.253.33:50765] logged in with entity id 45934 at ([world]-3609.0315722605087, 82.0, -1777.77566014249)
+[21:42:43] [Server thread/INFO]: [voicechat] Received secret request of Sebas23m (18)
+[21:42:43] [Server thread/INFO]: [voicechat] Sent secret to Sebas23m
+[21:55:46] [User Authenticator #13/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[21:55:49] [Server thread/INFO]: theeminence joined the game
+[21:55:49] [Server thread/INFO]: theeminence[/127.47.205.81:59279] logged in with entity id 48497 at ([world]3740.474932563263, 92.0, 7958.499334428451)
+[21:56:26] [Async Chat Thread - #10/INFO]: [Not Secure] <theeminence> jesus
+[21:56:33] [Async Chat Thread - #10/INFO]: [Not Secure] <theeminence> pico o hqcha
+[21:56:47] [Async Chat Thread - #10/INFO]: [Not Secure] <Sebas23m> hacha
