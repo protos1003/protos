@@ -1150,6 +1150,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:wolf": "2025-04-17 18:14:46 +0000",
       "minecraft:sheep": "2025-04-14 22:56:10 +0000"
     },
     "done": false
@@ -1992,7 +1993,8 @@
   },
   "minecraft:husbandry/whole_pack": {
     "criteria": {
-      "minecraft:rusty": "2025-04-15 23:37:04 +0000"
+      "minecraft:rusty": "2025-04-15 23:37:04 +0000",
+      "minecraft:pale": "2025-04-17 18:13:04 +0000"
     },
     "done": false
   },
