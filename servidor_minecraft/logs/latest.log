@@ -121,3 +121,12 @@
 [18:06:56] [Server thread/INFO]: [voicechat] Received secret request of Sebas23m (18)
 [18:06:56] [Server thread/INFO]: [voicechat] Sent secret to Sebas23m
 [18:14:57] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[18:32:25] [Server thread/INFO]: Sebas23m lost connection: Timed out
+[18:32:25] [Server thread/INFO]: [voicechat] Disconnecting client Sebas23m
+[18:32:25] [Server thread/INFO]: Sebas23m left the game
+[18:33:42] [User Authenticator #1/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[18:33:44] [Server thread/INFO]: Sebas23m joined the game
+[18:33:44] [Server thread/INFO]: Sebas23m[/127.52.233.102:59021] logged in with entity id 3671 at ([world]-3634.331389619675, 86.0, -1784.0524192699374)
+[18:34:46] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[18:34:46] [Server thread/INFO]: [voicechat] Disconnecting client Sebas23m
+[18:34:46] [Server thread/INFO]: Sebas23m left the game
