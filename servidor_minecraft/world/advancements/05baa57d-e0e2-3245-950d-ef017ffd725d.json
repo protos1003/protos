@@ -1177,16 +1177,17 @@
     "criteria": {
       "minecraft:blaze": "2025-04-16 01:23:23 +0000",
       "minecraft:skeleton": "2025-04-15 20:01:13 +0000",
+      "minecraft:wither_skeleton": "2025-04-16 01:16:50 +0000",
+      "minecraft:ghast": "2025-04-16 00:45:02 +0000",
+      "minecraft:ender_dragon": "2025-04-16 02:38:43 +0000",
+      "minecraft:shulker": "2025-04-16 19:25:58 +0000",
       "minecraft:piglin": "2025-04-15 20:18:54 +0000",
       "minecraft:enderman": "2025-04-15 20:20:59 +0000",
       "minecraft:silverfish": "2025-04-16 01:42:01 +0000",
       "minecraft:piglin_brute": "2025-04-15 20:32:18 +0000",
       "minecraft:spider": "2025-04-15 20:05:45 +0000",
-      "minecraft:wither_skeleton": "2025-04-16 01:16:50 +0000",
       "minecraft:zombie": "2025-04-15 20:05:29 +0000",
-      "minecraft:ghast": "2025-04-16 00:45:02 +0000",
-      "minecraft:ender_dragon": "2025-04-16 02:38:43 +0000",
-      "minecraft:shulker": "2025-04-16 19:25:58 +0000"
+      "minecraft:creeper": "2025-04-18 18:12:37 +0000"
     },
     "done": false
   },
