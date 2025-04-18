@@ -165,3 +165,9 @@
 [02:24:53] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
 [02:24:53] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
 [02:26:46] [Server thread/INFO]: Sebas23m issued server command: /home 8
+[02:41:45] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[02:42:02] [Server thread/INFO]: Sebas23m issued server command: /home 8
+[02:44:38] [Server thread/INFO]: Cami23m lost connection: Disconnected
+[02:44:38] [Server thread/INFO]: [voicechat] Disconnecting client Cami23m
+[02:44:38] [Server thread/INFO]: Cami23m left the game
+[02:50:16] [Server thread/INFO]: Sebas23m issued server command: /home 1
