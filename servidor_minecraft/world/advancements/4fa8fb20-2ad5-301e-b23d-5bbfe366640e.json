@@ -127,6 +127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-18 00:33:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-04-18 00:21:54 +0000"
