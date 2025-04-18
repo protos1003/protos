@@ -136,3 +136,16 @@
 [01:51:58] [Server thread/INFO]: Sebas23m issued server command: /sethome 7
 [01:52:02] [Server thread/INFO]: Sebas23m issued server command: /home 1
 [01:53:24] [Server thread/INFO]: Sebas23m issued server command: /home 7
+[02:06:56] [Server thread/WARN]: Cami23m moved too quickly! 1.4205582488302753,4.224762990530991,9.107534741467816
+[02:07:00] [Server thread/WARN]: Cami23m was kicked for floating too long!
+[02:07:00] [Server thread/INFO]: Cami23m lost connection: Flying is not enabled on this server
+[02:07:00] [Server thread/INFO]: [voicechat] Disconnecting client Cami23m
+[02:07:00] [Server thread/INFO]: Cami23m left the game
+[02:07:32] [User Authenticator #1/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[02:07:40] [Server thread/INFO]: Cami23m joined the game
+[02:07:40] [Server thread/INFO]: Cami23m[/127.52.233.102:34597] logged in with entity id 8088 at ([world]-3628.710393206522, 69.5144004267756, -1859.0079728128924)
+[02:08:27] [Server thread/INFO]: Sebas23m issued server command: /home 7
+[02:09:11] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
+[02:09:11] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
+[02:09:22] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[02:09:22] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
