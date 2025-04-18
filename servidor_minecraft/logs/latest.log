@@ -149,3 +149,15 @@
 [02:09:11] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
 [02:09:22] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
 [02:09:22] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[02:10:07] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
+[02:10:07] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
+[02:10:26] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[02:10:26] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[02:17:24] [Server thread/INFO]: Sebas23m issued server command: /death 7
+[02:17:48] [Server thread/INFO]: Sebas23m issued server command: /sethome 8
+[02:18:11] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[02:18:31] [Server thread/INFO]: Sebas23m issued server command: /home 8
+[02:18:52] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[02:19:14] [Server thread/INFO]: Sebas23m issued server command: /home 8
+[02:19:56] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[02:19:56] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
