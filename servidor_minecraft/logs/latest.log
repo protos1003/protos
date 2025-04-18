@@ -187,3 +187,10 @@
 [18:58:00] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
 [19:06:14] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
 [19:06:14] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
+[19:15:27] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[19:15:27] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[19:18:14] [Server thread/INFO]: Sebas23m drowned while trying to escape Drowned
+[19:20:14] [Server thread/INFO]: Sebas23m issued server command: /home 10
+[19:20:27] [Server thread/INFO]: Sebas23m was impaled by Lvl 19 | Drowned
+[19:20:35] [Server thread/INFO]: Sebas23m issued server command: /home 10
+[19:20:49] [Server thread/INFO]: Sebas23m issued server command: /home 10
