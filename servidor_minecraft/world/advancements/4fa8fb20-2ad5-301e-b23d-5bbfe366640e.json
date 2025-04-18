@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sparse_jungle": "2025-04-18 00:21:30 +0000",
+      "minecraft:river": "2025-04-18 02:19:57 +0000",
       "minecraft:swamp": "2025-04-17 18:47:33 +0000",
       "minecraft:plains": "2025-04-18 00:21:17 +0000"
     },
@@ -724,6 +725,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-04-18 01:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-18 02:21:46 +0000"
     },
     "done": true
   },
