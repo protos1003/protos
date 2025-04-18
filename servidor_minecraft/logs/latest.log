@@ -132,3 +132,7 @@
 [01:41:06] [Server thread/INFO]: Sebas23m issued server command: /home 1
 [01:44:00] [Server thread/INFO]: Sebas23m issued server command: /home 1
 [01:49:41] [Server thread/INFO]: Sebas23m issued server command: /home 3
+[01:49:46] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[01:51:58] [Server thread/INFO]: Sebas23m issued server command: /sethome 7
+[01:52:02] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[01:53:24] [Server thread/INFO]: Sebas23m issued server command: /home 7
