@@ -136,3 +136,15 @@
 [00:23:35] [Server thread/INFO]: Cami23m has made the advancement [Stone Age]
 [00:46:40] [Server thread/INFO]: Cami23m has made the advancement [Sweet Dreams]
 [01:03:25] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[01:08:40] [Server thread/INFO]: Sebas23m was doomed to fall by Zombie
+[01:09:05] [Server thread/INFO]: Sebas23m issued server command: /tp -3712 -26 -1706
+[01:09:05] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -3711.500000, -26.000000, -1705.500000]
+[01:11:32] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[01:13:16] [Server thread/INFO]: Sebas23m issued server command: /home 3
+[01:13:38] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[01:16:27] [Server thread/INFO]: Cami23m lost connection: Disconnected
+[01:16:27] [Server thread/INFO]: [voicechat] Disconnecting client Cami23m
+[01:16:27] [Server thread/INFO]: Cami23m left the game
+[01:16:54] [User Authenticator #2/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[01:17:01] [Server thread/INFO]: Cami23m joined the game
+[01:17:01] [Server thread/INFO]: Cami23m[/127.52.233.102:58603] logged in with entity id 11120 at ([world]-3619.6434074996473, 59.0, -1889.774926516627)
