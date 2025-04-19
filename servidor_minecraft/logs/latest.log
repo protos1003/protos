@@ -143,3 +143,15 @@
 [14:28:09] [Server thread/INFO]: Sebas23m[/127.52.233.102:41775] logged in with entity id 2843 at ([world]-3653.397458490598, 90.5625, -1807.74509328248)
 [14:29:16] [Server thread/INFO]: [voicechat] Received secret request of Sebas23m (18)
 [14:29:16] [Server thread/INFO]: [voicechat] Sent secret to Sebas23m
+[14:31:29] [Server thread/INFO]: Sebas23m lost connection: Timed out
+[14:31:29] [Server thread/INFO]: [voicechat] Disconnecting client Sebas23m
+[14:31:29] [Server thread/INFO]: Sebas23m left the game
+[14:32:09] [User Authenticator #3/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[14:32:11] [Server thread/INFO]: Sebas23m joined the game
+[14:32:11] [Server thread/INFO]: Sebas23m[/127.52.233.102:53127] logged in with entity id 3369 at ([world]-3654.3134032391786, 90.5625, -1807.0167218485756)
+[14:33:01] [Server thread/INFO]: [voicechat] Received secret request of Sebas23m (18)
+[14:33:01] [Server thread/INFO]: [voicechat] Sent secret to Sebas23m
+[14:34:05] [User Authenticator #4/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[14:34:09] [Server thread/INFO]: jp7806073 joined the game
+[14:34:09] [Server thread/INFO]: jp7806073[/127.137.147.230:35465] logged in with entity id 3859 at ([world]-4079.0270929130493, 64.0, 6104.8421272583355)
+[14:34:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebas23m> bro encontre tu base
