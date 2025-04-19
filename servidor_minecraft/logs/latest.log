@@ -199,3 +199,23 @@
 [15:22:09] [Server thread/INFO]: [voicechat] Disconnecting client jp7806073
 [15:22:09] [Server thread/INFO]: jp7806073 left the game
 [15:31:16] [Server thread/INFO]: Sebas23m tried to swim in lava
+[15:32:03] [Server thread/INFO]: Sebas23m issued server command: /home 3
+[15:32:17] [Server thread/INFO]: Cami23m fell from a high place
+[15:32:25] [Server thread/INFO]: Sebas23m issued server command: /tp -339 18 -244
+[15:32:25] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -338.500000, 18.000000, -243.500000]
+[15:32:49] [Server thread/INFO]: Sebas23m tried to swim in lava
+[15:33:30] [Server thread/INFO]: Sebas23m issued server command: /home 3
+[15:33:53] [Server thread/INFO]: Sebas23m issued server command: /tp -332 28 -237
+[15:33:53] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -331.500000, 28.000000, -236.500000]
+[15:33:58] [Server thread/INFO]: Sebas23m issued server command: /home 3
+[15:34:17] [Server thread/INFO]: Sebas23m issued server command: /tp -339 18 -244
+[15:34:17] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -338.500000, 18.000000, -243.500000]
+[15:34:19] [Server thread/INFO]: Sebas23m tried to swim in lava
+[15:34:26] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
+[15:34:26] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
+[15:34:33] [Server thread/INFO]: Sebas23m issued server command: /home 3
+[15:34:58] [Server thread/INFO]: Sebas23m issued server command: /tp -338 18 -237
+[15:34:58] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -337.500000, 18.000000, -236.500000]
+[15:35:23] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[15:35:23] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[15:37:09] [Server thread/INFO]: Sebas23m issued server command: /home 1
