@@ -131,3 +131,4 @@
 [17:03:08] [Server thread/INFO]: Villager Villager['Librarian'/2434, uuid='24681297-0bde-4980-a611-b481a3371d56', l='ServerLevel[world]', x=-3609.50, y=82.00, z=-1773.70, cpos=[-226, -111], tl=552449, v=true] died, message: 'Librarian tried to swim in lava'
 [17:05:28] [Server thread/INFO]: Villager Villager['Villager'/2473, uuid='2ab17ef7-9c22-4716-b6db-a3b4418abe61', l='ServerLevel[world]', x=-3613.50, y=82.00, z=-1773.02, cpos=[-226, -111], tl=149990, v=true] died, message: 'Villager suffocated in a wall'
 [17:12:46] [Server thread/INFO]: Villager Villager['Villager'/2475, uuid='fd2a7e56-672d-45b3-ba21-f9c93f723bce', l='ServerLevel[world]', x=-3613.50, y=82.00, z=-1773.70, cpos=[-226, -111], tl=232126, v=true] died, message: 'Villager burned to death'
+[17:37:14] [Server thread/WARN]: Player Sebas23m just tried to change non-editable sign
