@@ -249,3 +249,9 @@
 [16:16:30] [Server thread/INFO]: [voicechat] Disconnecting client Cami23m
 [16:16:30] [Server thread/INFO]: Cami23m left the game
 [16:21:00] [Server thread/INFO]: jp7806073 has made the advancement [Enchanter]
+[16:25:10] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[16:25:10] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[16:25:37] [Server thread/INFO]: Sebas23m issued server command: /home 10
+[16:25:46] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[16:25:46] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[16:26:41] [Server thread/INFO]: jp7806073 issued server command: /home H

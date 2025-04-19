@@ -2487,5 +2487,17 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-19 16:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-19 16:26:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
