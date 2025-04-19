@@ -155,3 +155,30 @@
 [14:34:09] [Server thread/INFO]: jp7806073 joined the game
 [14:34:09] [Server thread/INFO]: jp7806073[/127.137.147.230:35465] logged in with entity id 3859 at ([world]-4079.0270929130493, 64.0, 6104.8421272583355)
 [14:34:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebas23m> bro encontre tu base
+[14:42:01] [Server thread/INFO]: Sebas23m issued server command: /tp -4100 64 6104
+[14:42:01] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -4099.500000, 64.000000, 6104.500000]
+[14:42:52] [Server thread/INFO]: Sebas23m issued server command: /sethome 11
+[14:42:54] [Server thread/INFO]: Sebas23m issued server command: /home 10
+[14:43:06] [Server thread/INFO]: Sebas23m issued server command: /home 11
+[14:43:25] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[14:43:40] [Server thread/INFO]: Sebas23m issued server command: /home 10
+[14:43:55] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[14:44:23] [Server thread/INFO]: Villager Villager['Fisherman'/3893, uuid='103d1d85-aac7-448c-ab5e-064a21fc4bfe', l='ServerLevel[world]', x=-4105.51, y=66.00, z=6118.16, cpos=[-257, 382], tl=253214, v=true] died, message: 'Fisherman was slain by Zombie'
+[14:44:48] [Server thread/INFO]: Sebas23m issued server command: /home 11
+[14:45:07] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[14:45:07] [Server thread/INFO]: [voicechat] Disconnecting client jp7806073
+[14:45:07] [Server thread/INFO]: jp7806073 left the game
+[14:45:12] [User Authenticator #5/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[14:45:13] [User Authenticator #5/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[14:45:16] [Server thread/INFO]: jp7806073 joined the game
+[14:45:16] [Server thread/INFO]: jp7806073[/127.137.147.230:40661] logged in with entity id 7861 at ([world]-4051.213135694391, 63.0, 6086.5168615767625)
+[14:45:16] [Server thread/INFO]: Cami23m joined the game
+[14:45:16] [Server thread/INFO]: Cami23m[/127.52.233.102:60047] logged in with entity id 7862 at ([world]-3689.699999988079, 61.0, -1826.3549292589046)
+[14:45:44] [Server thread/INFO]: Sebas23m issued server command: /home 10
+[14:45:53] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[14:46:19] [Server thread/INFO]: jp7806073 was slain by Lvl 15 | Zombie
+[14:46:31] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[14:46:31] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[14:50:23] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[14:50:23] [Server thread/INFO]: [voicechat] Disconnecting client Sebas23m
+[14:50:23] [Server thread/INFO]: Sebas23m left the game
