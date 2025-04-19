@@ -1,306 +1,127 @@
-[14:10:44] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[14:10:44] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[14:10:44] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[14:10:45] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
-[14:10:45] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
- - GSit (2.3.0), Graves (4.9.7), LevelledMobs (4.3.1 b112), LuckPerms (5.4.158), SkinsRestorer (15.6.2), SmoothTimber (1.27.4), TNTAlert (1.0), UltraSetHome (1.7.9), sleep-most (5.5.3), voicechat (2.5.29)
-[14:10:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:10:52] [ServerMain/INFO]: Loaded 1290 recipes
-[14:10:53] [ServerMain/INFO]: Loaded 1399 advancements
-[14:10:53] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[14:10:53] [Server thread/INFO]: Loading properties
-[14:10:53] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[14:10:54] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[14:10:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:10:54] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:10:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[14:10:55] [Server thread/INFO]: Default game type: SURVIVAL
-[14:10:55] [Server thread/INFO]: Generating keypair
-[14:10:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:10:55] [Server thread/INFO]: Using epoll channel type
-[14:10:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[14:10:55] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[14:10:56] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[14:11:07] [Server thread/WARN]: Legacy plugin TNTAlert v1.0 does not specify an api-version.
-[14:11:10] [Server thread/INFO]: [GSit] Loading server plugin GSit v2.3.0
-[14:11:11] [Server thread/INFO]: [TNTAlert] Loading server plugin TNTAlert v1.0
-[14:11:11] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.4
-[14:11:11] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.158
-[14:11:11] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
-[14:11:11] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.29
-[14:11:11] [Server thread/INFO]: [Graves] Loading server plugin Graves v4.9.7
-[14:11:11] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
-[14:11:11] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.3
-[14:11:11] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.1 b112
-[14:11:11] [Server thread/INFO]: [LevelledMobs] Loading commands
-[14:11:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:11:12] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.158
-[14:11:12] [Server thread/INFO]:         __    
-[14:11:12] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.158
-[14:11:12] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[14:11:12] [Server thread/INFO]: 
-[14:11:12] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[14:11:13] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[14:11:14] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[14:11:14] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[14:11:14] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2110ms)
-[14:11:14] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
-[14:11:16] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[14:11:17] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[14:11:18] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[14:11:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:11:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:11:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:11:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:11:18] [Server thread/INFO]: Preparing level "world"
-[14:11:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:11:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[14:11:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[14:11:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[14:11:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[14:11:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[14:11:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:11:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
-[14:11:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
-[14:11:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[14:11:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:11:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[14:11:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[14:11:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:11:21] [Server thread/INFO]: Time elapsed: 1885 ms
-[14:11:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:11:21] [Server thread/INFO]: Time elapsed: 279 ms
-[14:11:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:11:21] [Server thread/INFO]: Time elapsed: 217 ms
-[14:11:21] [Server thread/INFO]: [GSit] Enabling GSit v2.3.0
-[14:11:22] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
-[14:11:22] [Server thread/INFO]: [TNTAlert] Enabling TNTAlert v1.0*
-[14:11:22] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.4
-[14:11:22] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.21.1 (Core v1_20x)
-[14:11:22] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.29
-[14:11:22] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.1-R0.1
-[14:11:22] [Server thread/INFO]: [voicechat] Compatibility version 18
-[14:11:22] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[14:11:22] [Server thread/INFO]: [Graves] Enabling Graves v4.9.7
-[14:11:22] [Server thread/INFO]: [Graves] Integration: Hooked into MiniMessage.
-[14:11:23] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
-[14:11:24] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.3
-[14:11:24] [Server thread/INFO]: [sleep-most] Hooked to GSit
-[14:11:24] [Server thread/INFO]: [sleep-most] GSit hook detected and registered GSit event listener
-[14:11:24] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.1 b112
-[14:11:24] [Server thread/INFO]: [LevelledMobs] Enabling commands
-[14:11:24] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
-[14:11:24] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21.1 for nametag support
-[14:11:24] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
-[14:11:24] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
-[14:11:24] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
-[14:11:24] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
-[14:11:24] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
-[14:11:24] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
-[14:11:24] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
-[14:11:24] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
-[14:11:25] [Server thread/INFO]: [LevelledMobs] Running misc procedures
-[14:11:25] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
-[14:11:25] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 782ms)
-[14:11:25] [Server thread/INFO]: [spark] Starting background profiler...
-[14:11:25] [Server thread/INFO]: Done preparing level "world" (6.824s)
-[14:11:25] [Server thread/INFO]: Running delayed init tasks
-[14:11:25] [Craft Scheduler Thread - 6 - sleep-most/INFO]: [sleep-most] UPDATE FOUND: A newer version of sleep-most is available to download!
-[14:11:25] [Server thread/INFO]: Done (42.628s)! For help, type "help"
-[14:11:25] [Server thread/INFO]: Timings Reset
-[14:11:25] [Server thread/INFO]: [voicechat] Loading plugins
-[14:11:25] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[14:11:25] [Server thread/INFO]: [voicechat] Initializing plugins
-[14:11:25] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[14:11:25] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[14:11:25] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[14:11:25] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
-[14:11:50] [User Authenticator #0/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[14:11:53] [Server thread/INFO]: Sebas23m joined the game
-[14:11:53] [Server thread/INFO]: Sebas23m[/127.52.233.102:32827] logged in with entity id 16 at ([world]-3716.444108378013, 163.0, -1534.084443106324)
-[14:12:15] [Server thread/INFO]: [voicechat] Received secret request of Sebas23m (18)
-[14:12:15] [Server thread/INFO]: [voicechat] Sent secret to Sebas23m
-[14:12:50] [Server thread/INFO]: Sebas23m issued server command: /home 10
-[14:14:54] [Server thread/INFO]: Sebas23m was slain by Lvl 12 | Drowned
-[14:15:28] [Server thread/INFO]: Sebas23m issued server command: /home 10
-[14:15:55] [Server thread/INFO]: Sebas23m was slain by Drowned ❤
-[14:16:03] [Server thread/INFO]: Sebas23m issued server command: /home 10
-[14:16:43] [Server thread/INFO]: Sebas23m issued server command: /home 10
-[14:16:58] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[14:18:10] [Server thread/INFO]: Sebas23m lost connection: Timed out
-[14:18:10] [Server thread/INFO]: [voicechat] Disconnecting client Sebas23m
-[14:18:10] [Server thread/INFO]: Sebas23m left the game
-[14:18:27] [User Authenticator #1/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[14:18:29] [Server thread/INFO]: Sebas23m joined the game
-[14:18:29] [Server thread/INFO]: Sebas23m[/127.52.233.102:43995] logged in with entity id 1734 at ([world]-3638.597194853735, 86.9375, -1787.2366507533347)
-[14:18:41] [Server thread/INFO]: [voicechat] Received secret request of Sebas23m (18)
-[14:18:41] [Server thread/INFO]: [voicechat] Sent secret to Sebas23m
-[14:27:18] [Server thread/INFO]: Sebas23m lost connection: Timed out
-[14:27:18] [Server thread/INFO]: [voicechat] Disconnecting client Sebas23m
-[14:27:18] [Server thread/INFO]: Sebas23m left the game
-[14:28:07] [User Authenticator #2/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[14:28:09] [Server thread/INFO]: Sebas23m joined the game
-[14:28:09] [Server thread/INFO]: Sebas23m[/127.52.233.102:41775] logged in with entity id 2843 at ([world]-3653.397458490598, 90.5625, -1807.74509328248)
-[14:29:16] [Server thread/INFO]: [voicechat] Received secret request of Sebas23m (18)
-[14:29:16] [Server thread/INFO]: [voicechat] Sent secret to Sebas23m
-[14:31:29] [Server thread/INFO]: Sebas23m lost connection: Timed out
-[14:31:29] [Server thread/INFO]: [voicechat] Disconnecting client Sebas23m
-[14:31:29] [Server thread/INFO]: Sebas23m left the game
-[14:32:09] [User Authenticator #3/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[14:32:11] [Server thread/INFO]: Sebas23m joined the game
-[14:32:11] [Server thread/INFO]: Sebas23m[/127.52.233.102:53127] logged in with entity id 3369 at ([world]-3654.3134032391786, 90.5625, -1807.0167218485756)
-[14:33:01] [Server thread/INFO]: [voicechat] Received secret request of Sebas23m (18)
-[14:33:01] [Server thread/INFO]: [voicechat] Sent secret to Sebas23m
-[14:34:05] [User Authenticator #4/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[14:34:09] [Server thread/INFO]: jp7806073 joined the game
-[14:34:09] [Server thread/INFO]: jp7806073[/127.137.147.230:35465] logged in with entity id 3859 at ([world]-4079.0270929130493, 64.0, 6104.8421272583355)
-[14:34:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebas23m> bro encontre tu base
-[14:42:01] [Server thread/INFO]: Sebas23m issued server command: /tp -4100 64 6104
-[14:42:01] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -4099.500000, 64.000000, 6104.500000]
-[14:42:52] [Server thread/INFO]: Sebas23m issued server command: /sethome 11
-[14:42:54] [Server thread/INFO]: Sebas23m issued server command: /home 10
-[14:43:06] [Server thread/INFO]: Sebas23m issued server command: /home 11
-[14:43:25] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[14:43:40] [Server thread/INFO]: Sebas23m issued server command: /home 10
-[14:43:55] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[14:44:23] [Server thread/INFO]: Villager Villager['Fisherman'/3893, uuid='103d1d85-aac7-448c-ab5e-064a21fc4bfe', l='ServerLevel[world]', x=-4105.51, y=66.00, z=6118.16, cpos=[-257, 382], tl=253214, v=true] died, message: 'Fisherman was slain by Zombie'
-[14:44:48] [Server thread/INFO]: Sebas23m issued server command: /home 11
-[14:45:07] [Server thread/INFO]: jp7806073 lost connection: Disconnected
-[14:45:07] [Server thread/INFO]: [voicechat] Disconnecting client jp7806073
-[14:45:07] [Server thread/INFO]: jp7806073 left the game
-[14:45:12] [User Authenticator #5/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[14:45:13] [User Authenticator #5/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
-[14:45:16] [Server thread/INFO]: jp7806073 joined the game
-[14:45:16] [Server thread/INFO]: jp7806073[/127.137.147.230:40661] logged in with entity id 7861 at ([world]-4051.213135694391, 63.0, 6086.5168615767625)
-[14:45:16] [Server thread/INFO]: Cami23m joined the game
-[14:45:16] [Server thread/INFO]: Cami23m[/127.52.233.102:60047] logged in with entity id 7862 at ([world]-3689.699999988079, 61.0, -1826.3549292589046)
-[14:45:44] [Server thread/INFO]: Sebas23m issued server command: /home 10
-[14:45:53] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[14:46:19] [Server thread/INFO]: jp7806073 was slain by Lvl 15 | Zombie
-[14:46:31] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
-[14:46:31] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
-[14:50:23] [Server thread/INFO]: Sebas23m lost connection: Disconnected
-[14:50:23] [Server thread/INFO]: [voicechat] Disconnecting client Sebas23m
-[14:50:23] [Server thread/INFO]: Sebas23m left the game
-[15:07:07] [User Authenticator #6/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[15:07:10] [Server thread/INFO]: Sebas23m joined the game
-[15:07:10] [Server thread/INFO]: Sebas23m[/127.52.233.102:37527] logged in with entity id 14596 at ([world]-3646.7360719051317, 87.0, -1763.2790790746603)
-[15:07:16] [Server thread/INFO]: [voicechat] Received secret request of Sebas23m (18)
-[15:07:16] [Server thread/INFO]: [voicechat] Sent secret to Sebas23m
-[15:10:56] [Server thread/INFO]: Cami23m has made the advancement [Take Aim]
-[15:11:01] [Server thread/INFO]: Cami23m has made the advancement [Monster Hunter]
-[15:14:41] [Server thread/INFO]: Sebas23m issued server command: /home 10
-[15:14:53] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[15:18:16] [Server thread/INFO]: Sebas23m has made the advancement [Hidden in the Depths]
-[15:18:31] [Server thread/INFO]: jp7806073 issued server command: /home N
-[15:19:08] [Server thread/INFO]: jp7806073 issued server command: /home H
-[15:19:56] [Server thread/INFO]: Sebas23m issued server command: /home 3
-[15:22:09] [Server thread/INFO]: jp7806073 lost connection: Disconnected
-[15:22:09] [Server thread/INFO]: [voicechat] Disconnecting client jp7806073
-[15:22:09] [Server thread/INFO]: jp7806073 left the game
-[15:31:16] [Server thread/INFO]: Sebas23m tried to swim in lava
-[15:32:03] [Server thread/INFO]: Sebas23m issued server command: /home 3
-[15:32:17] [Server thread/INFO]: Cami23m fell from a high place
-[15:32:25] [Server thread/INFO]: Sebas23m issued server command: /tp -339 18 -244
-[15:32:25] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -338.500000, 18.000000, -243.500000]
-[15:32:49] [Server thread/INFO]: Sebas23m tried to swim in lava
-[15:33:30] [Server thread/INFO]: Sebas23m issued server command: /home 3
-[15:33:53] [Server thread/INFO]: Sebas23m issued server command: /tp -332 28 -237
-[15:33:53] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -331.500000, 28.000000, -236.500000]
-[15:33:58] [Server thread/INFO]: Sebas23m issued server command: /home 3
-[15:34:17] [Server thread/INFO]: Sebas23m issued server command: /tp -339 18 -244
-[15:34:17] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -338.500000, 18.000000, -243.500000]
-[15:34:19] [Server thread/INFO]: Sebas23m tried to swim in lava
-[15:34:26] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
-[15:34:26] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
-[15:34:33] [Server thread/INFO]: Sebas23m issued server command: /home 3
-[15:34:58] [Server thread/INFO]: Sebas23m issued server command: /tp -338 18 -237
-[15:34:58] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -337.500000, 18.000000, -236.500000]
-[15:35:23] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
-[15:35:23] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
-[15:37:09] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[15:43:32] [Server thread/INFO]: Cami23m lost connection: Disconnected
-[15:43:32] [Server thread/INFO]: [voicechat] Disconnecting client Cami23m
-[15:43:32] [Server thread/INFO]: Cami23m left the game
-[15:57:59] [Server thread/INFO]: Sebas23m issued server command: /home 3
-[15:58:08] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[16:00:20] [Server thread/INFO]: Sebas23m was blown up by Lvl 8 | Creeper
-[16:02:12] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[16:03:04] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[16:03:21] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[16:04:08] [Server thread/INFO]: Sebas23m issued server command: /home 11
-[16:04:22] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[16:04:34] [Server thread/INFO]: Sebas23m was slain by Lvl 11 | Zombie
-[16:04:39] [Server thread/INFO]: Villager Villager['Villager'/30441, uuid='6bc707f6-994c-48ca-9593-ddba9ff8f61b', l='ServerLevel[world]', x=-3660.37, y=89.00, z=-1809.60, cpos=[-229, -114], tl=16567, v=true] died, message: 'Villager was slain by Zombie'
-[16:04:40] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[16:05:38] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[16:08:53] [User Authenticator #7/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
-[16:08:57] [Server thread/INFO]: Cami23m joined the game
-[16:08:57] [Server thread/INFO]: Cami23m[/127.52.233.102:41985] logged in with entity id 31425 at ([world]-3631.885717255434, 86.0, -1781.0152713481182)
-[16:11:00] [User Authenticator #8/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[16:11:04] [Server thread/INFO]: jp7806073 joined the game
-[16:11:04] [Server thread/INFO]: jp7806073[/127.137.147.230:35517] logged in with entity id 31622 at ([world]-4059.1165671800363, 68.0, 6100.598651622481)
-[16:11:24] [Async Chat Thread - #1/INFO]: [Not Secure] <Sebas23m> brooo
-[16:11:27] [Async Chat Thread - #1/INFO]: [Not Secure] <jp7806073> bueno y si contestás???
-[16:11:31] [Async Chat Thread - #1/INFO]: [Not Secure] <jp7806073> q
-[16:11:49] [Async Chat Thread - #1/INFO]: [Not Secure] <jp7806073> q pasoo
-[16:13:26] [Server thread/INFO]: Sebas23m has completed the challenge [Cover Me in Debris]
-[16:16:30] [Server thread/INFO]: Cami23m lost connection: Disconnected
-[16:16:30] [Server thread/INFO]: [voicechat] Disconnecting client Cami23m
-[16:16:30] [Server thread/INFO]: Cami23m left the game
-[16:21:00] [Server thread/INFO]: jp7806073 has made the advancement [Enchanter]
-[16:25:10] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
-[16:25:10] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
-[16:25:37] [Server thread/INFO]: Sebas23m issued server command: /home 10
-[16:25:46] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
-[16:25:46] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
-[16:26:41] [Server thread/INFO]: jp7806073 issued server command: /home H
-[16:38:15] [Server thread/INFO]: jp7806073 lost connection: Disconnected
-[16:38:15] [Server thread/INFO]: [voicechat] Disconnecting client jp7806073
-[16:38:15] [Server thread/INFO]: jp7806073 left the game
-[16:40:52] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[16:44:37] [Server thread/INFO]: Sebas23m lost connection: Disconnected
-[16:44:37] [Server thread/INFO]: [voicechat] Disconnecting client Sebas23m
-[16:44:37] [Server thread/INFO]: Sebas23m left the game
-[16:44:52] [Server thread/INFO]: Stopping the server
-[16:44:52] [Server thread/INFO]: Stopping server
-[16:44:52] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.1 b112
-[16:44:52] [Server thread/INFO]: [LevelledMobs] Unregistering commands
-[16:44:52] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
-[16:44:52] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 2ms)
-[16:44:52] [Craft Scheduler Thread - 10 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
-[16:44:52] [Craft Scheduler Thread - 8 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
-[16:44:52] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.3
-[16:44:52] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
-[16:44:52] [Server thread/INFO]: [Graves] Disabling Graves v4.9.7
-[16:44:52] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.29
-[16:44:52] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.2
-[16:44:52] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.158
-[16:44:52] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[16:44:52] [Server thread/INFO]: [LuckPerms] Closing storage...
-[16:44:52] [Server thread/INFO]: [LuckPerms] Goodbye!
-[16:44:52] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.4
-[16:44:52] [Server thread/INFO]: [TNTAlert] Disabling TNTAlert v1.0
-[16:44:52] [Server thread/INFO]: [GSit] Disabling GSit v2.3.0
-[16:44:52] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
-[16:44:52] [Server thread/INFO]: Saving players
-[16:44:52] [Server thread/INFO]: Saving worlds
-[16:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:44:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[16:44:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[16:44:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[16:44:52] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 25 entity chunks, 0 poi chunks in world 'world' in 0.07s
-[16:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[16:44:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[16:44:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[16:44:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[16:44:52] [Server thread/INFO]: [ChunkHolderManager] Saved 45 block chunks, 10 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
-[16:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[16:44:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[16:44:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[16:44:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[16:44:52] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[16:44:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:44:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:44:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:44:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:48:33] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[16:48:33] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[16:48:33] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:48:33] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/LockShulker.jar'...
+[16:48:34] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/LockShulker.jar' in 376ms.
+[16:48:34] [ServerMain/INFO]: [PluginInitializerManager] Initialized 11 plugins
+[16:48:34] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (11):
+ - GSit (2.3.0), Graves (4.9.7), LevelledMobs (4.3.1 b112), LockShulker (1.0), LuckPerms (5.4.158), SkinsRestorer (15.6.2), SmoothTimber (1.27.4), TNTAlert (1.0), UltraSetHome (1.7.9), sleep-most (5.5.3), voicechat (2.5.29)
+[16:48:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:48:39] [ServerMain/INFO]: Loaded 1290 recipes
+[16:48:39] [ServerMain/INFO]: Loaded 1399 advancements
+[16:48:39] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:48:39] [Server thread/INFO]: Loading properties
+[16:48:39] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[16:48:40] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:48:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:48:40] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:48:41] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[16:48:41] [Server thread/INFO]: Default game type: SURVIVAL
+[16:48:41] [Server thread/INFO]: Generating keypair
+[16:48:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:48:41] [Server thread/INFO]: Using epoll channel type
+[16:48:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:48:41] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[16:48:41] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[16:48:50] [Server thread/WARN]: Legacy plugin TNTAlert v1.0 does not specify an api-version.
+[16:48:52] [Server thread/INFO]: [GSit] Loading server plugin GSit v2.3.0
+[16:48:52] [Server thread/INFO]: [TNTAlert] Loading server plugin TNTAlert v1.0
+[16:48:52] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.4
+[16:48:52] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.158
+[16:48:52] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
+[16:48:52] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.29
+[16:48:52] [Server thread/INFO]: [Graves] Loading server plugin Graves v4.9.7
+[16:48:53] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
+[16:48:53] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.3
+[16:48:53] [Server thread/INFO]: [LockShulker] Loading server plugin LockShulker v1.0
+[16:48:53] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.1 b112
+[16:48:53] [Server thread/INFO]: [LevelledMobs] Loading commands
+[16:48:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:48:53] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.158
+[16:48:53] [Server thread/INFO]:         __    
+[16:48:53] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.158
+[16:48:53] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[16:48:53] [Server thread/INFO]: 
+[16:48:53] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[16:48:53] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[16:48:54] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[16:48:54] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[16:48:54] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1019ms)
+[16:48:54] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
+[16:48:55] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[16:48:56] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[16:48:57] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[16:48:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:48:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:48:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:48:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:48:57] [Server thread/INFO]: Preparing level "world"
+[16:48:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:48:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[16:48:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[16:48:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[16:48:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[16:48:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[16:48:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:48:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
+[16:48:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
+[16:48:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[16:48:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:48:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[16:48:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[16:48:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:48:59] [Server thread/INFO]: Time elapsed: 1250 ms
+[16:48:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:48:59] [Server thread/INFO]: Time elapsed: 245 ms
+[16:48:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:48:59] [Server thread/INFO]: Time elapsed: 120 ms
+[16:48:59] [Server thread/INFO]: [GSit] Enabling GSit v2.3.0
+[16:49:00] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[16:49:00] [Server thread/INFO]: [TNTAlert] Enabling TNTAlert v1.0*
+[16:49:00] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.4
+[16:49:00] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.21.1 (Core v1_20x)
+[16:49:00] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.29
+[16:49:00] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.1-R0.1
+[16:49:00] [Server thread/INFO]: [voicechat] Compatibility version 18
+[16:49:00] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[16:49:00] [Server thread/INFO]: [Graves] Enabling Graves v4.9.7
+[16:49:00] [Server thread/INFO]: [Graves] Integration: Hooked into MiniMessage.
+[16:49:00] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
+[16:49:01] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.3
+[16:49:01] [Server thread/INFO]: [sleep-most] Hooked to GSit
+[16:49:01] [Server thread/INFO]: [sleep-most] GSit hook detected and registered GSit event listener
+[16:49:01] [Server thread/INFO]: [LockShulker] Enabling LockShulker v1.0
+[16:49:01] [Server thread/INFO]: [LockShulker] LockShulker включен!
+[16:49:01] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.1 b112
+[16:49:01] [Server thread/INFO]: [LevelledMobs] Enabling commands
+[16:49:01] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[16:49:01] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21.1 for nametag support
+[16:49:01] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
+[16:49:01] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[16:49:01] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[16:49:01] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[16:49:02] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[16:49:02] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
+[16:49:02] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[16:49:02] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[16:49:02] [Server thread/INFO]: [LevelledMobs] Running misc procedures
+[16:49:02] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[16:49:02] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 559ms)
+[16:49:02] [Server thread/INFO]: [spark] Starting background profiler...
+[16:49:02] [Server thread/INFO]: Done preparing level "world" (4.987s)
+[16:49:02] [Server thread/INFO]: Running delayed init tasks
+[16:49:02] [Craft Scheduler Thread - 1 - sleep-most/INFO]: [sleep-most] UPDATE FOUND: A newer version of sleep-most is available to download!
+[16:49:02] [Server thread/INFO]: Done (30.614s)! For help, type "help"
+[16:49:02] [Server thread/INFO]: Timings Reset
+[16:49:02] [Server thread/INFO]: [voicechat] Loading plugins
+[16:49:02] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[16:49:02] [Server thread/INFO]: [voicechat] Initializing plugins
+[16:49:02] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[16:49:02] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[16:49:02] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[16:49:03] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
+[16:49:48] [User Authenticator #0/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[16:49:50] [Server thread/INFO]: Sebas23m joined the game
+[16:49:51] [Server thread/INFO]: Sebas23m[/127.52.233.102:59295] logged in with entity id 16 at ([world]-3630.029710711753, 86.0, -1774.6665535091265)
+[16:49:54] [Server thread/INFO]: [voicechat] Received secret request of Sebas23m (18)
+[16:49:54] [Server thread/INFO]: [voicechat] Sent secret to Sebas23m
