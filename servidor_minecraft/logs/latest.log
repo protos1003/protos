@@ -255,3 +255,7 @@
 [16:25:46] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
 [16:25:46] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
 [16:26:41] [Server thread/INFO]: jp7806073 issued server command: /home H
+[16:38:15] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[16:38:15] [Server thread/INFO]: [voicechat] Disconnecting client jp7806073
+[16:38:15] [Server thread/INFO]: jp7806073 left the game
+[16:40:52] [Server thread/INFO]: Sebas23m issued server command: /home 1
